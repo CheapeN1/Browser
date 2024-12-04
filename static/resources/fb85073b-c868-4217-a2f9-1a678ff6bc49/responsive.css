@@ -1,0 +1,491 @@
+@media only screen and (min-width: 320px) {
+}
+
+@media only screen and (min-width: 480px) {
+}
+
+@media only screen and (min-width: 768px) {
+	.outer-menu {
+		display: none;
+	}
+
+	header.stick-fixed {
+		position: fixed !important;
+		top: 0;
+		left: 0;
+		background: #fff;
+		box-shadow: 0 0px 5px 0 rgba(0, 0, 0, 0.2);
+	}
+
+	header.stick-fixed .navbar-brand {
+		top: 0;
+		left: 0;
+		width: 220px;
+	}
+
+	header.stick-fixed .navbar-collapse {
+		box-shadow: unset;
+	}
+
+	header.stick-fixed .logo {
+		opacity: 1;
+	}
+
+	/*.dropdown:hover .dropdown-menu {*/
+	/*display: block;*/
+	/*left: 0;*/
+	/*right: auto;*/
+	/*}*/
+	a.vertical-align,
+	div.vertical-align {
+		display: flex;
+		align-items: center;
+	}
+
+	.flex-center {
+		display: flex;
+		align-items: center;
+	}
+
+	.teknikOzellikler ul {
+		max-width: 45%;
+		display: inline-block;
+		vertical-align: top;
+	}
+
+	.teknikOzellikler ul + ul {
+		margin-left: 9%;
+	}
+}
+
+@media only screen and (min-width: 992px) {
+	.megamenu .dropdown {
+		display: none;
+	}
+
+	.megamenu {
+		position: static !important;
+	}
+
+	.megamenu .dropdown-menu {
+		background: none;
+		border: none;
+		width: 100%;
+		border-radius: 0;
+		padding: 0;
+		top: 100%;
+		left: 50%;
+		max-width: 970px;
+		-webkit-transform: translate(-50%, 0) !important;
+		-ms-transform: translate(-50%, 0) !important;
+		transform: translate(-50%, 0) !important;
+		ms-transform: translate(-50%, 0) !important;
+	}
+
+	.megamenu .dropdown-menu .container {
+		max-width: 100%;
+	}
+
+	.megamenu:hover .dropdown-menu {
+		display: block;
+		color: #fff;
+		margin: 0;
+	}
+
+	.megamenu .dropdown-menu .container .col-lg-4 {
+		background-color: var(--color-4);
+		padding: 30px 30px;
+	}
+
+	.megamenu:hover .dropdown-menu a {
+		color: #fff;
+	}
+
+	.megamenu .dropdown-menu .container .col-lg-4 + .col-lg-4 {
+		background-color: #00527b;
+	}
+
+	.megamenu .dropdown-menu a:hover {
+
+	}
+
+	.megamenu .dropdown-menu h6 {
+
+		margin-bottom: 10px;
+		border-bottom: 1px solid #80c2e3;
+		padding-bottom: 5px;
+		font-size: 18px;
+		font-weight: 600;
+	}
+
+	.megamenu .dropdown-menu ul {
+
+	}
+
+	.top-search .input-group-addon {
+		background-color: transparent;
+		border: none;
+		color: #1365a4;
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.megamenu {
+		display: inline-block !important;
+	}
+}
+
+@media only screen and (min-width: 1300px) {
+
+}
+
+@media only screen and (min-width: 1680px) {
+
+
+}
+
+@media only screen and (max-width: 1400px) {
+	.tum-hizmetler .sub-title,
+	.hizmetItem .content .inner .title {
+		font-size: 18px;
+		line-height: 23px;
+	}
+
+	.site-navbar {
+	}
+
+	.menu-btn a span {
+		font-weight: 600;
+		font-size: 11px;
+	}
+
+	.menu-btn a i {
+		width: 24px;
+		height: 24px;
+		line-height: 24px;
+		font-size: 14px;
+		margin-right: 5px;
+	}
+
+	.site-navbar-wrap.v2 .site-navbar .site-navigation .site-menu > li > a {
+		font-size: 16px;
+		font-weight: 600;
+		padding: 34px 10px;
+	}
+}
+
+@media only screen and (max-width: 1150px) {
+	.site-navbar-wrap.v2 .site-navbar .site-navigation .site-menu > li > a {
+		font-size: 15px;
+		padding: 34px 10px;
+	}
+
+	.site-navbar .site-navigation .site-menu > li {
+	}
+}
+
+@media only screen and (max-width: 1199px) {
+
+
+	.haberItem .content .btn {
+		position: relative;
+		left: 0;
+		margin-top: 15px;
+	}
+
+
+}
+
+@media only screen and (max-width: 991px) {
+	.site-navbar {
+		padding: 10px 20px;
+	}
+
+	.sm-right {
+		text-align: right !important;
+		float: right;
+	}
+
+	.megamenu .dropdown-menu,
+	.megamenu:hover .dropdown-menu {
+		display: none !important;
+	}
+
+	.affix {
+		position: static;
+	}
+
+	.h1, h1 {
+		font-size: 32px;
+	}
+
+	.kurumsal .heading-title {
+		margin-top: 30px;
+	}
+
+	.headerContact {
+		display: none !important;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.langMenu,
+	.menu-btn {
+		display: none;
+	}
+
+	header.stick-fixed {
+		position: fixed !important;
+		top: 0;
+		left: 0;
+		background: #fff;
+		box-shadow: 0 0px 5px 0 rgba(0, 0, 0, 0.2);
+	}
+
+	.h1, h1 {
+		font-size: 22px;
+	}
+
+	.h3, h3 {
+		font-size: 16px;
+	}
+
+	section.projects .projeItem .content {
+		font-size: 20px;
+		padding: 15px;
+		line-height: 22px;
+	}
+
+	footer,
+	.copyright {
+		text-align: center;
+		padding-bottom: 60px;
+	}
+
+	footer .social {
+		margin: 15px 0 !important;
+
+	}
+
+	footer ul.m-r-30 {
+		margin-right: 0 !important;
+	}
+
+	.copyright img,
+	footer img {
+		margin: 0 auto 15px;
+	}
+
+	.copyright .pull-right,
+	footer .pull-right {
+		float: none !important;
+	}
+
+	.projePage .projeItem .content {
+		font-size: 16px;
+	}
+
+	.projePage .projeItem .content .read-more {
+		font-size: 16px;
+		margin-top: 5px;
+	}
+
+	.navbar-header {
+		position: relative;
+	}
+
+	section.kurumsal {
+		padding-top: 30px !important;
+		padding-bottom: 30px !important;
+	}
+
+	section.widgets {
+		padding-bottom: 0 !important;
+		margin-bottom: 0;
+	}
+
+
+	.mobileContacts {
+		display: block !important;
+		position: fixed;
+		top: auto;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		width: 100%;
+		max-width: 100%;
+		z-index: 1000200;
+		box-shadow: 0 0 1px 1px #e2dfe2;
+	}
+
+	.mobileContacts a {
+		width: calc(100% / 3);
+		border: 0;
+		padding: 0;
+		position: relative;
+		display: block;
+		margin: 0;
+		outline-offset: -1px;
+		text-align: center;
+		float: left;
+		transition: width .15s ease-in-out;
+		overflow: hidden;
+		background: #e8e8e8;
+		z-index: 100030;
+		cursor: pointer;
+	}
+
+	.mobileContacts a i {
+		font-size: 30px;
+		color: #fff;
+		display: block;
+		padding: 8px 0;
+		cursor: pointer;
+	}
+
+	.mobileContacts a.wa {
+		background-color: rgb(77, 194, 71);
+	}
+
+	.mobileContacts a.tel {
+		background-color: rgb(132, 132, 132);
+	}
+
+	.mobileContacts a.mail {
+		background-color: rgb(29, 161, 242);
+	}
+
+	header .top-bar {
+		border-bottom: 1px solid #efefef;
+	}
+
+	.popin.generalAnnounce {
+		right: 15px;
+		width: unset;
+		bottom: 65px;
+	}
+
+
+	.navbar {
+		min-height: 60px;
+	}
+
+	.clients-grid.grid-4 li {
+		width: 50%;
+	}
+
+
+	.site-navbar-wrap.v2 {
+		padding: 0;
+		background-color: #fff;
+	}
+
+
+	section.projects .projeItem > .photo > .title {
+		top: 0;
+		line-height: 28px;
+	}
+
+	section.projects .projeItem > .photo > .title,
+	section.projects .projeItem .content .title {
+		font-size: 25px;
+	}
+
+	section.widgets .ourNumbers .numberItem .number h3 {
+		font-size: 60px;
+	}
+
+	.heading-title,
+	section.kurumsal .hakkimizda h2 {
+		font-size: 30px;
+	}
+
+	.header {
+		position: relative;
+	}
+
+	.slogan {
+		font-size: 20px;
+		color: #262425;
+		line-height: 28px;
+	}
+
+	.btnWithIcon {
+		width: 100%;
+	}
+
+	section.projects .projeItem .title {
+		position: relative;
+		left: 0;
+		right: 0;
+
+	}
+
+	section.widgets .widgetItem {
+		text-align: left;
+		margin-bottom: 30px;
+	}
+
+	section.widgets .widgetItem .icon {
+		margin-bottom: 30px;
+	}
+
+	.hizmetItem .content {
+		padding: 80px 15px;
+	}
+
+	.site-navbar {
+		margin-top: 0;
+		padding: 15px 0;
+	}
+
+	.site-navbar-wrap .navbar-brand {
+		max-width: 100px;
+	}
+
+	.header-top-section {
+		border-bottom: 1px solid #efefef !important;
+	}
+
+	.header-top-section .langMenu,
+	.header-top-section {
+		display: block !important;
+		border: 0;
+	}
+}
+
+@media only screen and (max-width: 479px) {
+	footer .list-inline li,
+	footer .footerContact li {
+		/* display: block; */
+	}
+
+	footer .footerContact li i {
+		margin-right: 0;
+	}
+
+	section.projects .projeItem .content {
+		font-size: 20px;
+	}
+
+	.copyright {
+		padding-bottom: 48px;
+	}
+
+	.copyright p {
+		font-size: 12px;
+	}
+
+	footer li {
+		margin-bottom: 5px;
+	}
+
+	.contact-i {
+		width: 70px;
+	}
+
+
+}
+
+@media only screen and (max-width: 319px) {
+}

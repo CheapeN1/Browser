@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]>
+<html class="ie ie6 no-js" lang="tr"> <![endif]-->    <!--[if IE 7 ]>
+<html class="ie ie7 no-js" lang="tr"> <![endif]-->    <!--[if IE 8 ]>
+<html class="ie ie8 no-js" lang="tr"> <![endif]-->    <!--[if IE 9 ]>
+<html class="ie ie9 no-js" lang="tr"> <![endif]-->    <!--[if gt IE 9]><!-->
+<html class="no-js" lang="tr">
+<!--<![endif]-->
+<head>
+	<link rel="apple-touch-icon" sizes="57x57" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/favicon-16x16.png">
+	<link rel="manifest" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<title>Hakkımızda</title>
+	<link rel="alternate" hreflang="tr-TR" href="https://cge.com.tr/tr"/>
+	<link rel="alternate" hreflang="en-US" href="https://cge.com.tr/en"/>
+<meta charset="UTF-8">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+<meta name="robots" content="noodp"/>
+<meta name="application-name" content="CGE Teknoloji"/>
+<meta name="description" content="CGE Teknoloji"/>
+<meta name="keywords" content="CGE Teknoloji"/>
+<meta name="robots" content="index,follow"/>
+<meta name="generator" content="Eliz Yazılım"/>
+<link rel="canonical" href="https://cge.com.tr/tr/kurumsal/hakkimizda"/>
+<!-- FAV ICON(BROWSER TAB ICON) -->
+<meta name="application-name" content="Hakkımızda" />
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="theme-color" content="#ffffff">
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap" media="" />
+<link type="text/css" rel="stylesheet" href="https://cge.com.tr//assets/bootstrap/v5.1.3/css/bootstrap-reboot.min.css" media="" />
+<link type="text/css" rel="stylesheet" href="https://cge.com.tr//assets/bootstrap/v5.1.3/css/bootstrap.css" media="" />
+<link type="text/css" rel="stylesheet" href="https://cge.com.tr//assets/font-awesome/v4.7.0/css/font-awesome.min.css" media="" />
+<link type="text/css" rel="stylesheet" href="https://cge.com.tr//assets/simple-line-icons/v2.4.0/css/simple-line-icons.css" media="" />
+<link type="text/css" rel="stylesheet" href="https://cge.com.tr//assets/css/animate.min.css" media="" />
+<link type="text/css" rel="stylesheet" href="https://cge.com.tr//assets/jquery-fancybox/v3.1.20/jquery.fancybox.css" media="" />
+<link type="text/css" rel="stylesheet" href="https://cge.com.tr//assets/owl-carousel/v2.3.4/assets/owl.carousel.css" media="" />
+<link type="text/css" rel="stylesheet" href="https://cge.com.tr//assets/owl-carousel/v2.3.4/assets/owl.theme.default.css" media="" />
+<link type="text/css" rel="stylesheet" href="https://cge.com.tr//assets/css/predefined.css" media="" />
+<link type="text/css" rel="stylesheet" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/css/style.css?v=1.2" media="" />
+<link type="text/css" rel="stylesheet" href="https://cge.com.tr/sites/other/cgeteknoloji/assets/css/responsive.css?v=1.0.7" media="" />
+	<!--[if lt IE 9]>
+<script type="text/javascript" src="https://cge.com.tr/sites/other/cgeteknoloji/assets/js/html5shiv.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr/sites/other/cgeteknoloji/assets/js/respond.min.js" charset="UTF-8"></script>
+	<![endif]-->
+</head><body>
+<div class="page">
+	<!-- Page Loader -->
+<div class="page-loader">
+	<div class="loader">Loading...</div>
+</div><!-- End Page Loader --><header class="header transparent scroll-hide">
+	<div class="header-top-section d-none">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<ul class="list-inline m-b-0 langMenu">
+														<li class="list-inline-item active">
+									<a href="https://cge.com.tr/tr" title="tr"><img src="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/flags/tr_TR.png" alt="Türkçe"/></a>
+								</li>
+												</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--Main Menu starts-->
+	<div class="site-navbar-wrap v2">
+		<div class="container-fluid maxWidth">
+			<div class="site-navbar">
+				<div class="row align-items-center">
+					<div class="col-xl-2 col-lg-2 col-md-2 col-7">
+						<a class="navbar-brand" href="https://cge.com.tr/tr"><img src="https://cge.com.tr/sites/other/cgeteknoloji/assets//images/logo.png" alt="CGE Teknoloji" class="img-fluid"></a>
+					</div>
+					<div class="col-xl-8 col-lg-8 col-md-8 col-5  order-2 order-lg-1 pl-xs-0">
+						<nav class="site-navigation text-center">
+							<div class="container">
+								<ul class="site-menu js-clone-nav d-none d-lg-block">
+									<li>
+										<a class="" href="https://cge.com.tr/tr">Anasayfa</a>
+									</li>
+									<li class="has-children">
+										<a class="active" href="#">Kurumsal</a>
+										<ul class="dropdown">
+																							<li>
+													<a href="https://cge.com.tr/tr/kurumsal/hakkimizda">Hakkımızda</a>
+												</li>
+																							<li>
+													<a href="https://cge.com.tr/tr/kurumsal/vizyon-misyon">Vizyon & Misyon</a>
+												</li>
+																							<li>
+													<a href="https://cge.com.tr/tr/kurumsal/kalite-politikasi">Kalite Politikası</a>
+												</li>
+																					</ul>
+									</li>
+									<li class="has-children d-block d-lg-none">
+										<a class="" href="#">Ürünlerimiz</a>
+										<ul class="dropdown">
+																							<li>
+													<a href="https://cge.com.tr/tr/urunlerimiz/askeri-sahra-tipi-fiber-optik-kablolar-06260380883263075" class="urunKategoriItem">
+														Askeri sahra tipi fiber optik kablolar 													</a>
+												</li>
+																							<li>
+													<a href="https://cge.com.tr/tr/urunlerimiz/telekom-fiber-optik-kablolar-ve-microductlar-007280957847043701" class="urunKategoriItem">
+														Telekom fiber optik kablolar ve microductlar													</a>
+												</li>
+																							<li>
+													<a href="https://cge.com.tr/tr/urunlerimiz/fiberoptik-kablolama-08469236559244497" class="urunKategoriItem">
+														Fiberoptik Kablolama													</a>
+												</li>
+																					</ul>
+									</li>
+									<li class="has-children  d-block d-lg-none">
+										<a class="" href="#">Çözümler</a>
+										<ul class="dropdown">
+																							<li>
+													<a href="https://cge.com.tr/tr/cozumler/is-surekliligi" class="urunKategoriItem">
+														İş Sürekliliği													</a>
+												</li>
+																							<li>
+													<a href="https://cge.com.tr/tr/cozumler/fiberoptik-algilama" class="urunKategoriItem">
+														FiberOptik Algılama													</a>
+												</li>
+																							<li>
+													<a href="https://cge.com.tr/tr/cozumler/bt-guvenlik" class="urunKategoriItem">
+														BT Güvenlik													</a>
+												</li>
+																					</ul>
+									</li>
+									<li class="has-children megamenu d-none">
+										<a class="" href="#">Ürünler & Çözümler</a>
+										<ul class="dropdown ">
+																								<li>
+														<a href="https://cge.com.tr/tr/cozumler/is-surekliligi">İş Sürekliliği</a>
+													</li>
+																									<li>
+														<a href="https://cge.com.tr/tr/cozumler/fiberoptik-algilama">FiberOptik Algılama</a>
+													</li>
+																									<li>
+														<a href="https://cge.com.tr/tr/cozumler/bt-guvenlik">BT Güvenlik</a>
+													</li>
+																						</ul>
+										<div aria-labelledby="megamneu" class="dropdown-menu">
+											<div class="container">
+												<div class="row text-uppercase p-r-0">
+													<div class="col-lg-4 col-md-4 col-sm-12">
+														<h6>Ürünlerimiz</h6>
+														<ul class="row">
+																																<li class="col-12">
+																		<a href="https://cge.com.tr/tr/urunlerimiz/askeri-sahra-tipi-fiber-optik-kablolar-06260380883263075" class="urunKategoriItem text-capitalize">
+																			Askeri sahra tipi fiber optik kablolar 																		</a>
+																	</li>
+																																	<li class="col-12">
+																		<a href="https://cge.com.tr/tr/urunlerimiz/telekom-fiber-optik-kablolar-ve-microductlar-007280957847043701" class="urunKategoriItem text-capitalize">
+																			Telekom fiber optik kablolar ve microductlar																		</a>
+																	</li>
+																																	<li class="col-12">
+																		<a href="https://cge.com.tr/tr/urunlerimiz/fiberoptik-kablolama-08469236559244497" class="urunKategoriItem text-capitalize">
+																			Fiberoptik Kablolama																		</a>
+																	</li>
+																														</ul>
+													</div>
+													<div class="col-lg-4 col-md-4 col-sm-12">
+														<h6>Çözümler</h6>
+														<ul class="row">
+																																<li class="col-12">
+																		<a href="https://cge.com.tr/tr/cozumler/is-surekliligi" class="urunKategoriItem text-capitalize">
+																			İş Sürekliliği																		</a>
+																	</li>
+																																	<li class="col-12">
+																		<a href="https://cge.com.tr/tr/cozumler/fiberoptik-algilama" class="urunKategoriItem text-capitalize">
+																			FiberOptik Algılama																		</a>
+																	</li>
+																																	<li class="col-12">
+																		<a href="https://cge.com.tr/tr/cozumler/bt-guvenlik" class="urunKategoriItem text-capitalize">
+																			BT Güvenlik																		</a>
+																	</li>
+																														</ul>
+													</div>
+													<div class="col-lg-4 col-md-4 col-sm-12 mh-100 p-0">
+														<div class="mh-100 h-100 d-inline-block w-100" style="background-image: url('https://cge.com.tr/img/-//sites/other/cgeteknoloji/uploads/urunler-bg.jpg')"></div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a class="" href="https://cge.com.tr/tr/is-ortaklari">İş Ortakları</a>
+									</li>
+									<li>
+										<a class="" href="https://cge.com.tr/tr/iletisim">İletişim</a>
+									</li>
+								</ul>
+							</div>
+						</nav>
+						<div class="d-lg-none sm-right">
+							<a href="#" class="mobile-bar js-menu-toggle">
+								<span class="fa fa-bars"></span>
+							</a>
+						</div>
+						<!--mobile-menu starts -->
+						<div class="site-mobile-menu">
+							<div class="site-mobile-menu-header">
+								<div class="site-mobile-menu-close  js-menu-toggle">
+									<span class="fa fa-close"></span>
+								</div>
+							</div>
+							<div class="site-mobile-menu-body"></div>
+						</div>
+						<!--mobile-menu ends-->
+					</div>
+					<div class="col-xl-2 col-lg-2 col-md-2 col-4 order-3 order-lg-2 text-right d-none d-md-block">
+						<div class="d-flex justify-content-end align-items-center">
+							<ul class="list-inline m-b-0 langMenu">
+																		<li class="list-inline-item active">
+											<a href="https://cge.com.tr/tr" title="tr"><img src="https://cge.com.tr/sites/other/cgeteknoloji/assets/images/flags/tr_TR.png" alt="Türkçe"/></a>
+										</li>
+																</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--Main Menu ends-->
+</header><div class="breadcrumbInner">
+	<div class="breadcrumbWrapper wow slideInUp" style="background:url('https://cge.com.tr/img/-//sites/other/cgeteknoloji/uploads/slides/kurumsal.jpg') no-repeat center center"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+									<h1>Hakkımızda</h1>
+							</div>
+			<div class="col-md-12">
+				<nav aria-label="breadcrumb">
+					<ol class="breadcrumb justify-content-center">
+						<li class="breadcrumb-item">
+							<a href="https://cge.com.tr/tr">Anasayfa							</a>
+						</li>
+																<li class="breadcrumb-item">
+											<a href="https://cge.com.tr/tr/kurumsal">Kurumsal</a>
+										</li>
+																		<li class="breadcrumb-item">
+										<a>Hakkımızda</a>
+									</li>
+													</ol>
+				</nav>
+			</div>
+		</div>
+	</div>
+</div>
+<section class="content-page">
+	<div class="kurumsal m-t-30 m-b-30">
+		<div class="container-fluid maxWidth">
+			<div class="row">
+				<div class="col-lg-12 col-12 wow slideInUp hakkimizda" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+					<div class="clearfix">
+													<img src="https://cge.com.tr/img/-//sites/other/cgeteknoloji/uploads/kurumsal/hakkimizdaImg1.jpg" alt="" class="m-r-30 m-b-30 img-fluid m-auto float-start">
+												<p>CGE Teknoloji, m&uuml;şterilerinin beklentilerini en iyi şekilde anlamak, yerine getirmek, m&uuml;şteri ve &ccedil;alışan memnuniyetinin s&uuml;rekliliğini garanti altına almak vizyonunu benimsemiştir.</p>
+<p>CGE Teknoloji m&uuml;şterilerine, rakiplerinden daha &uuml;st d&uuml;zeyde hizmet sunabilmek i&ccedil;in, teknolojik gelişmeleri s&uuml;rekli takip ederek m&uuml;şteri ihtiya&ccedil;larına uyarlar, m&uuml;şterilerine sunduğu &ccedil;&ouml;z&uuml;mlerin teknolojik &uuml;st&uuml;nl&uuml;ğ&uuml;n&uuml;n yanında, zamanında, hızlı, ekonomik, kusursuz, g&uuml;venilir hizmet vermeyi misyon edinmiştir.</p>
+<p>Bu hedeflere sağlıklı bir şekilde ulaşmak i&ccedil;in Kalite Y&ouml;netim Sisteminin gerekliliklerini CGE Teknoloji 'taki hizmet, y&ouml;netim ve kontrol s&uuml;re&ccedil;lerin uyarlayarak, bu s&uuml;re&ccedil;lerin hedeflerini ve &ouml;l&ccedil;&uuml;m kontrol noktalarını belirlemekte ve gerekli kaynak planlamasını yapmaktadır.</p>
+<p>CGE Teknoloji, uzmanlık konusundaki &ouml;nc&uuml; ve g&uuml;&ccedil;l&uuml; konumunu daha da ileriye g&ouml;t&uuml;rmeyi hedeflemektedir.</p>
+<p>T&uuml;m d&uuml;nyada artan rekabet, &uuml;r&uuml;n odaklılıktan hizmet ve m&uuml;şteri odaklılığa ge&ccedil;iş, firmaların bilişim teknolojilerindeki gelişmeleri daima yakından takip etmelerini ve Bilgi - İletişim teknolojilerini daha verimli kullanmalarını zorunlu kılıyor. Biz de bu ihtiya&ccedil;ları karşılamaya y&ouml;nelik olarak, iş d&uuml;nyasında verimlilik sağlayan, y&ouml;neticilere ve bilişim profesyonellerine yeni bakış a&ccedil;ıları kazandıran &ccedil;&ouml;z&uuml;mlerimizi sunuyoruz.</p>
+<p>CGE Teknoloji, bilişim teknolojilerinin en gelişmişlerini kullanarak en se&ccedil;kin &ccedil;&ouml;z&uuml;mleri kişiye &ouml;zel sunmayı hedefler. M&uuml;şterilerinin &ccedil;eşitlilik g&ouml;steren ihtiya&ccedil; ve beklentilerini karşılamak i&ccedil;in, teknik bilgiye sahip g&uuml;&ccedil;l&uuml; uzman kadrosuyla g&uuml;ncel teknolojiyi takip ederek en iyi &ccedil;&ouml;z&uuml;mleri sunmaktadır.</p>					</div>
+				</div>
+			</div>
+										<div class="row">
+									</div>
+					</div>
+	</div>
+</section>
+<footer class="p-b-0">
+	<div class="container-fluid maxWidth">
+		<div class="row">
+			<div class="col-md-6 col-lg-3 wow slideInUp m-b-30" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+				<h4>Bizi Takip Edin</h4>
+				<div class="social">
+					<ul class="link list-inline m-b-15">
+																			<li class="fb list-inline-item">
+								<a target="_blank" rel="nofollow" href="https://www.facebook.com/" title="Facebook"></a>
+							</li>
+																			<li class="tw list-inline-item">
+								<a target="_blank" rel="nofollow" href="https://twitter.com/" title="Twitter"></a>
+							</li>
+																									<li class="instagram list-inline-item">
+								<a target="_blank" rel="nofollow" href="https://www.instagram.com" title="Instagram"></a>
+							</li>
+																									<li class="linkedin list-inline-item">
+								<a target="_blank" rel="nofollow" href="https://www.linkedin.com/" title="Linkedin"></a>
+							</li>
+																			<li class="youtube list-inline-item">
+								<a target="_blank" rel="nofollow" href="https://www.youtube.com" title="Youtube"></a>
+							</li>
+											</ul>
+				</div>
+				<p>Copyright &copy; 2024&nbsp; &nbsp;|&nbsp; CGE Teknoloji</p>
+<a href="https://www.elizyazilim.com/">Design By Eliz Yazılım </a>			</div>
+			<div class="col-md-6 col-lg-3 wow slideInUp m-b-30" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+				<h4>Hızlı Erişim</h4>
+				<ul class="">
+					<li>
+						<a href="https://cge.com.tr/tr">Anasayfa</a>
+					</li>
+					<li>
+						<a href="https://cge.com.tr/tr/kurumsal">Kurumsal</a>
+					</li>
+					<li>
+						<a href="https://cge.com.tr/tr/is-ortaklari">İş Ortakları</a>
+					</li>
+					<li>
+						<a href="https://cge.com.tr/tr/kisisel-verilerin-korunmasi">Kişisel Verilerin Korunması</a>
+					</li>
+					<li>
+						<a href="https://cge.com.tr/tr/cerez-politikasi">Çerez Politikası</a>
+					</li>
+					<li>
+						<a href="https://cge.com.tr/tr/iletisim">İletişim</a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-md-6 col-lg-3 wow slideInUp m-b-30" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+				<h4>Çözümler</h4>
+				<ul class="">
+											<li>
+							<a href="https://cge.com.tr/tr/cozumler/is-surekliligi">İş Sürekliliği</a>
+						</li>
+											<li>
+							<a href="https://cge.com.tr/tr/cozumler/fiberoptik-algilama">FiberOptik Algılama</a>
+						</li>
+											<li>
+							<a href="https://cge.com.tr/tr/cozumler/bt-guvenlik">BT Güvenlik</a>
+						</li>
+									</ul>
+			</div>
+			<div class="col-md-6 col-lg-3 wow slideInUp m-b-30" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+				<h4>Ürünlerimiz</h4>
+				<ul class="">
+											<li>
+							<a href="https://cge.com.tr/tr/urunlerimiz/askeri-sahra-tipi-fiber-optik-kablolar-06260380883263075">Askeri sahra tipi fiber optik kablolar </a>
+						</li>
+											<li>
+							<a href="https://cge.com.tr/tr/urunlerimiz/telekom-fiber-optik-kablolar-ve-microductlar-007280957847043701">Telekom fiber optik kablolar ve microductlar</a>
+						</li>
+											<li>
+							<a href="https://cge.com.tr/tr/urunlerimiz/fiberoptik-kablolama-08469236559244497">Fiberoptik Kablolama</a>
+						</li>
+									</ul>
+			</div>
+		</div>
+	</div>
+	<div class="copyright">
+		<div class="container-fluid copyTexts text-center">
+			<div class="row wow slideInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+				<div class="col-md-12">
+					<a href="https://cge.com.tr/tr" style="opacity: 1;">
+						<img src="https://cge.com.tr/sites/other/cgeteknoloji/assets//images/footer-logo.png" class="img-fluid" alt="CGE Teknoloji">
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+</div>
+<script>
+	// noinspection JSAnnotator
+	const
+		isMobile = false,
+		protocol = "https://",
+		uriToPlaceHoldIt = "https://www.placehold.it/",
+		assetsPath = "/assets/",
+		uriToUpload = "https://cge.com.tr/sites/other/cgeteknoloji/uploads/",
+		uploadMaxFileSize = 8388608,
+		applicationPath = "/admin/layouts/",
+				module_code = "contents",
+		controller = "contents",
+		module_group_code = "content_management",
+		controllerPath = "content_management/contents",
+				chooseOption = "<option value='' disabled selected>Seçiniz</option>",
+		are_you_sure = "Emin misiniz?",
+		please_wait = "Lütfen Bekleyiniz",
+		please_select = "Lütfen Listeden Seçiniz",
+		site_lang = "tr",
+		site_locale = "tr_TR",
+		site_uilocale = "tr_TR",
+		str_base_url = "https://cge.com.tr/tr",
+		str_site_url = "https://cge.com.tr/",
+		enter_valid_phone_number = "Lütfen geçerli bir numara giriniz",
+		cannot_be_empty = "Bu alan boş bırakılamaz",
+		translate_error_title = "Hata",
+		translate_alert_title = "Uyarı",
+		translate_notification_title = "Bildirim",
+		currencies = {
+    "1": {
+        "idcurrency": "1",
+        "name": "T\u00fcrk Liras\u0131",
+        "icon": "fa fa-try",
+        "code": "TRY",
+        "crcode": null,
+        "crname": null,
+        "value": "1.0000",
+        "status": "1",
+        "created_at": "2017-06-30 23:30:55",
+        "updated_at": null,
+        "change_rate": null
+    },
+    "2": {
+        "idcurrency": "2",
+        "name": "US Dollar",
+        "icon": "fa fa-usd",
+        "code": "USD",
+        "crcode": null,
+        "crname": null,
+        "value": "6.1563",
+        "status": "1",
+        "created_at": "2017-06-30 23:30:55",
+        "updated_at": "2018-08-15 19:58:32",
+        "change_rate": null
+    },
+    "3": {
+        "idcurrency": "3",
+        "name": "Pound Sterling",
+        "icon": "fa fa-gbp",
+        "code": "GBP",
+        "crcode": null,
+        "crname": null,
+        "value": "7.8403",
+        "status": "1",
+        "created_at": "2017-06-30 23:30:55",
+        "updated_at": "2018-08-15 19:58:32",
+        "change_rate": null
+    },
+    "4": {
+        "idcurrency": "4",
+        "name": "Euro",
+        "icon": "fa fa-eur",
+        "code": "EUR",
+        "crcode": null,
+        "crname": null,
+        "value": "6.8500",
+        "status": "1",
+        "created_at": "2017-06-30 23:30:55",
+        "updated_at": "2019-05-06 19:42:43",
+        "change_rate": null
+    }
+};
+</script>
+<script type="text/javascript" src="https://cge.com.tr//assets/jquery/jquery-3.5.1.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr//assets/bootstrap/v5.1.3/js/bootstrap.bundle.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr//assets/jquery-cookie/jquery.cookie.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr//assets/owl-carousel/v2.3.4/owl.carousel.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr//assets/isotope/v3.0.4/isotope.pkgd.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr//assets/imagesLoaded/v.4.1.1/imagesloaded.pkgd.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr//assets/lazysizes/v5.2.0/lazysizes.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr//assets/jquery-fancybox/v3.1.20/jquery.fancybox.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr//assets/js/wow/v1.3.0/wow.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr//modules/common/assets/js/tools.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr/sites/other/cgeteknoloji/assets/js/main.js?v=1.0" charset="UTF-8"></script>
+<div class="mobileContacts" style="display: none;">
+					<a class="mail" target="_blank" rel="nofollow" href="mailto:info@cge.com.tr">
+			<i class="fa fa-envelope"></i>
+		</a>
+	</div><div id="go_up">
+	<i class="fa fa-angle-up" aria-hidden="true"></i>
+</div><script id="ajax_modal_template" type="text/x-tmpl">
+<div class="modal fade bs-modal-lg" tabindex="-1" role="ajaxModal" aria-hidden="true" data-focus-on="input:first">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+				<h4 class="modal-title"></h4>
+			</div>
+			<div class="modal-body"></div>
+			<div class="modal-footer">
+				<button type="button" class="btn red" data-dismiss="modal">KAPAT</button>
+			</div>
+		</div>
+	</div>
+</div>
+</script><div class="modal fade" id="alertModal" role="alertModal" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+				<h4 class="modal-title" id="alertModalTitle"></h4>
+			</div>
+			<div class="modal-body" id="alertModalmessage">
+
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn red" data-dismiss="modal">KAPAT</button>
+			</div>
+		</div>
+		<!-- /.modal-content -->
+	</div>
+	<!-- /.modal-dialog -->
+</div><div class="modal fade" id="confirmActionModal" role="confirmActionModal" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+				<h4 class="modal-title" id="confimActionTitle"></h4>
+			</div>
+				<div class="modal-body" id="confimActionMessage">
+
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn red" data-dismiss="modal">İPTAL</button>
+					<button type="button" id="confimAction" data-dismiss="modal" class="btn blue">ONAYLA</button>
+				</div>
+		</div>
+		<!-- /.modal-content -->
+	</div>
+	<!-- /.modal-dialog -->
+</div><div class="modal fade" id="processingModal" role="confirmActionModal" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h4 class="modal-title">Lütfen Bekleyiniz..</h4>
+			</div>
+			<div class="modal-body p-t-40 p-b-40">
+				<div class="cell text-center m-auto">
+					<div class="card">
+						<span class="whirly-loader">Loading&#8230;</span>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+	</div>
+</div>			<div class="popin generalAnnounce" id="cookieUsagePopIn" style="display: none;">
+				<span class="closeBtn">x</span>
+				<h6 class="title">Çerez Politikası</h6>
+				<p>
+					<p>CGE Teknoloji olarak web sitemizi geliştirmek, kullanışlı, etkili ve g&uuml;venli hale getirmek amacıyla &ccedil;erezler (cookie) kullanıyoruz. Sitemizde gezinmeye devam etmeniz halinde cihazınızdaki &ccedil;erezlere erişebileceğimizi de kabul ediyorsunuz. &nbsp;Ayrıntılı bilgiye ve &ccedil;erezleri engelleme y&ouml;ntemlerine <a href="cerez-politikasi">&Ccedil;erez Politikası</a>&rsquo;dan ulaşabilirsiniz.</p>				</p>
+				<span class="acceptAndClose">Kabul et ve Kapat</span>
+			</div>
+			<script>
+				$(document).ready(function () {
+					if ($.cookie('pop-cookie') == null) {
+						$('#cookieUsagePopIn').css("display", "block");
+						$.cookie('pop-cookie', '1');
+					}
+					$(".closeBtn").click(function () {
+						$("#cookieUsagePopIn").hide();
+					})
+					$(".acceptAndClose").click(function () {
+						$("#cookieUsagePopIn").hide();
+					})
+				});
+			</script>
+		<script type="text/javascript" src="https://cge.com.tr/revslider/assets/js/jquery.themepunch.tools.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr/revslider/assets/js/jquery.themepunch.revolution.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr/revslider/assets/js/extensions/revolution.extension.actions.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr/revslider/assets/js/extensions/revolution.extension.carousel.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr/revslider/assets/js/extensions/revolution.extension.kenburn.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr/revslider/assets/js/extensions/revolution.extension.layeranimation.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr/revslider/assets/js/extensions/revolution.extension.migration.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr/revslider/assets/js/extensions/revolution.extension.navigation.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr/revslider/assets/js/extensions/revolution.extension.parallax.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr/revslider/assets/js/extensions/revolution.extension.slideanims.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr/revslider/assets/js/extensions/revolution.extension.video.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cge.com.tr/revslider/assets/js/revslider.js" charset="UTF-8"></script>
+</body></html>
